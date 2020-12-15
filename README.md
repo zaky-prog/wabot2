@@ -1,1 +1,2 @@
-# wabot2 by bng_jek
+# by bng_jek 
+#bot by XP-TN#
